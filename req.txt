@@ -6,3 +6,13 @@ scikit-learn
 ipykernel
 ydata-profiling
 ipywidgets
+wordcloud
+nltk
+xgboost
+kaggle
+kagglehub
+plotly[express]
+nbformat
+ipython
+statsmodels
+tensorflow
